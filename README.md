@@ -27,9 +27,11 @@
 | 1 | Pertemuan 2 p5.js | Praktik Code PowePoint |
 
 # SCREENSHOT PROGRAM
-![image](https://github.com/user-attachments/assets/657c60e4-6b31-4fb5-b1c1-bad76120fadd)
-![image](https://github.com/user-attachments/assets/6fedd318-ab5d-4a46-b8c3-bf9ea2bba3a0)
-![image](https://github.com/user-attachments/assets/c4496b31-58bc-49d8-9ae1-20a6fb8b7c8b)
-![image](https://github.com/user-attachments/assets/e0c4e237-d06f-4d5b-bff5-b379e8d6573b)
+![image](https://github.com/user-attachments/assets/e1a971b1-abe4-442a-9538-949c836db290)
+![image](https://github.com/user-attachments/assets/5a1d47cb-4852-499b-91bb-7bd19619a446)
+![image](https://github.com/user-attachments/assets/1e6fe379-de6c-4a66-84b3-a65ed5cd0f47)
+![image](https://github.com/user-attachments/assets/ea473d6a-3796-4171-b816-3a3139d70872)
+
+
 
 | InesRahayu - Task - Matakuliah Grafika Komputer |
